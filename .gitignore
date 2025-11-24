@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+
+# Build artifacts (PyInstaller, etc.)
+build/
+dist/
+*.spec
+*.exe
+*.dll
+*.zip
+*.toc
+*.pkg
+
+# Test cache
+.pytest_cache/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# OS / editor files
+.DS_Store
+.vscode/
+.idea/
